@@ -43,3 +43,9 @@ jobs:
         with:
           name: deployment-report
           path: report.md
+
+      - name: Upload File List
+        uses: actions/upload-artifact@v4
+        with:
+          name: file-list
+          path: file-list.txt
