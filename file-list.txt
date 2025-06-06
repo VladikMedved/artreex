@@ -1,0 +1,5 @@
+Созданные файлы:
+total 12
+-rw-r--r-- 1 root root 367 Jun  6 10:30 deploy.sh
+-rw-r--r-- 1 root root  31 Jun  6 12:17 file-list.txt
+-rw-r--r-- 1 root root  63 Jun  6 10:31 test-file.txt
